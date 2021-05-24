@@ -1,0 +1,19 @@
+# firebase console
+
+sign_in feature : parameters 
+
+
+hash_config {
+  algorithm: SCRYPT,
+  base64_signer_key: 7Abc/mqvobQeU6bFt23msyGK33B4Dk1XhHL0cypA4r8SX2RfvIEQHk/Q3T8eaP72zlDaDRuIqrJPRyzJHjTahw==,
+  base64_salt_separator: Bw==,
+  rounds: 8,
+  mem_cost: 14,
+}
+
+
+UID : A9I8bpLBHeSn0Iyynri8AHfuqti1
+
+UID : OFwUefdWHBfjlDf9WIkaT0bxait2
+
+UID : z40dQKbnG0QiuNuBgrzjFXfsIXv2
